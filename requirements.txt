@@ -1,0 +1,3 @@
+# requirements.txt
+pygame; platform_machine == "x86_64"
+Pillow
